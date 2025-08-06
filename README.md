@@ -50,10 +50,11 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinudasenith&show_icons=true&theme=light" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinudasenith&theme=light" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinudasenith&layout=compact&theme=light" />
 </div>
+
+
 
