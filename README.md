@@ -52,17 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinudasenith&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
-
----
-
 ## 📫 Get In Touch
 
 I’m open to connections and conversations. Don’t hesitate to reach out if you’d like to connect or learn more about my work.
